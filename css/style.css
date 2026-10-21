@@ -74,6 +74,7 @@ body {
     height: 400px;
     background-image: url("../image/banner.jpg");
     background-size: cover;
+    background-position: center;
 }
 
 .banner-texto {
